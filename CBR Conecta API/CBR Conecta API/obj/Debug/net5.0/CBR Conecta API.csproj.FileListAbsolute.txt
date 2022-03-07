@@ -1,0 +1,156 @@
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\appsettings.json
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.exe
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.deps.json
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.runtimeconfig.json
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.runtimeconfig.dev.json
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\ref\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.pdb
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.AssemblyReference.cache
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.AssemblyInfoInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.AssemblyInfo.cs
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.CoreCompileInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\staticwebassets\CBR Conecta API.StaticWebAssets.Manifest.cache
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\staticwebassets\CBR Conecta API.StaticWebAssets.xml
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\scopedcss\bundle\CBR Conecta API.styles.css
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.RazorTargetAssemblyInfo.cache
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.CopyComplete
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\ref\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.pdb
+C:\Users\nadad\OneDrive\Escritorio\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.genruntimeconfig.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\appsettings.Development.json
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\appsettings.json
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.StaticWebAssets.xml
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.exe
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.deps.json
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.runtimeconfig.json
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.runtimeconfig.dev.json
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\ref\CBR Conecta API.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.pdb
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Humanizer.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.AssemblyReference.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.GeneratedMSBuildEditorConfig.editorconfig
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.AssemblyInfoInputs.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.AssemblyInfo.cs
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.CoreCompileInputs.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.MvcApplicationPartsAssemblyInfo.cs
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.MvcApplicationPartsAssemblyInfo.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\scopedcss\bundle\CBR Conecta API.styles.css
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\staticwebassets\CBR Conecta API.StaticWebAssets.Manifest.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.RazorTargetAssemblyInfo.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.CopyComplete
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\ref\CBR Conecta API.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.pdb
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.genruntimeconfig.cache
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\FluentValidation.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\elagu\Documentos\GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.AssemblyInfoInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.AssemblyInfo.cs
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.CoreCompileInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\appsettings.json
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.exe
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.deps.json
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.runtimeconfig.json
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.runtimeconfig.dev.json
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\ref\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\CBR Conecta API.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\staticwebassets\CBR Conecta API.StaticWebAssets.Manifest.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\scopedcss\bundle\CBR Conecta API.styles.css
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.RazorTargetAssemblyInfo.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.CopyComplete
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\ref\CBR Conecta API.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.genruntimeconfig.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\APICBRCONECTA\CBR Conecta API\CBR Conecta API\obj\Debug\net5.0\CBR Conecta API.csproj.AssemblyReference.cache
